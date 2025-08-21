@@ -1,0 +1,77 @@
+body
+{
+  text-align: center;
+  text-transform: capitalize;
+  font-size:20px;
+  font-family: serif;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+ background-color: lightslategray;
+
+
+  
+}
+h1
+{
+  text-transform: uppercase;
+  font-family: serif;
+  color:black;
+  font-size:35px;
+  margin-top:50px;
+
+}
+.master p
+{
+  margin:5px;
+  font-weight:bold;
+  margin-top:5px; 
+  text-align:left;
+  padding:2px;  
+}
+.master input
+{
+  width:50%;
+  padding:5px;
+  border:solid ;
+  border-radius:2px;
+}
+button
+{
+  text-align:left;
+  margin:10px;
+  align-items:center;
+  padding:5px;
+  
+  border:solid;
+  color: black;
+  font-size: 15px;
+  text-transform: uppercase;
+  background-color:rgb(124, 160, 124);
+  border-radius:10px;
+  
+}
+.button1 button:hover
+{
+  background-color:lightcoral;
+  color:white;
+  
+
+}
+.master
+{
+  border:solid;
+  border-radius:10px;
+  background-color:white;
+  width:30%;
+  margin-bottom:50px;
+  background-attachment: fixed;
+ 
+
+
+}
+a
+{
+    padding-left: 10px;
+    margin-top: auto;
+}

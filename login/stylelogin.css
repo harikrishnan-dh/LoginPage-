@@ -10,7 +10,7 @@ body
     font-weight: bold;
     /* border: solid; */
     /* border-radius: 20px; */
-    background-color: lightskyblue;
+    background-color:white;
 }
 p
 {
@@ -55,7 +55,7 @@ input
 button
 {
     
-    width:70px;
+    width:120px;
     text-align:right;
     align-items:center;
     display: flex;
@@ -70,7 +70,7 @@ button
     padding-bottom:5px;
     padding: 4px; 
     font-weight: bold;
-    font-size:17px;
+    font-size:15px;
     cursor: pointer;
     
 
